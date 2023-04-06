@@ -31,3 +31,8 @@ li {
 a {
   color: inherit;
 }
+.breadcrumbers {
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+  background-color: #303030;
+}
