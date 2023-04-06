@@ -9,7 +9,11 @@ body {
   background-color: #212121;
 }
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 2rem 1rem 1rem 1rem;
 }
 p {
