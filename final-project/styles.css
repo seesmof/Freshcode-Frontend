@@ -50,3 +50,21 @@ header nav .nav-button {
 header nav .nav-button:hover {
   background-color: #a5edfd;
 }
+
+.hero {
+  align-items: center;
+  margin-top: 4rem;
+}
+.hero .main-heading {
+  text-transform: uppercase;
+  color: #9ad2de;
+  font-weight: 900;
+  font-size: 5rem;
+  width: 50%;
+  line-height: 1;
+}
+.hero .additional-text {
+  margin-top: 5rem;
+  font-size: 1.3rem;
+  width: 50%;
+}
