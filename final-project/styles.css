@@ -17,6 +17,7 @@ body {
 header {
   background-color: #f1fdff;
   height: 729px;
+  margin-bottom: 7rem;
 }
 header nav .logo {
   margin-top: 4rem;
@@ -67,4 +68,26 @@ header nav .nav-button:hover {
   margin-top: 5rem;
   font-size: 1.3rem;
   width: 50%;
+}
+
+main .first-info {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+main .first-info p {
+  color: #73a6b1;
+  width: 50%;
+  margin: 0 auto;
+}
+main .first-info h3 {
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+main .first-info h2 {
+  font-weight: normal;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
 }
