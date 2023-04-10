@@ -41,5 +41,11 @@ p:hover {
   gap: 2rem;
 }
 .sidebar h3 {
-  margin: 0 0 1rem 0;
+  margin: 1rem 0;
+}
+.article-heading {
+  margin-bottom: 0;
+}
+.content {
+  width: 70%;
 }
