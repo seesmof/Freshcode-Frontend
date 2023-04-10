@@ -80,3 +80,15 @@ a {
   flex-direction: row;
   gap: 0.4rem;
 }
+
+.other-article footer {
+  text-align: center;
+  width: 100%;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: #2b2b2b;
+  transition: all 0.2s ease-in-out;
+}
+.other-article footer:hover {
+  opacity: 0.9;
+}
