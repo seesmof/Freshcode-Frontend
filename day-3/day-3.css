@@ -36,6 +36,8 @@ a {
 }
 .sidebar h3 {
   margin: 1rem 0;
+  margin-bottom: -0.1rem;
+  font-size: 1.4rem;
 }
 .article-heading {
   margin-bottom: 0;
@@ -47,13 +49,18 @@ a {
   width: 24%;
 }
 
-.side-box p:first-of-type {
+.side-box p {
+  padding: 0.5rem;
   margin: 1rem 0;
-  width: 4rem;
   font-size: 0.9rem;
   text-align: center;
   background-color: #595959;
   border-radius: 0.6rem;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+}
+.side-box p:hover {
+  opacity: 0.8;
 }
 .side-box h4 {
   margin: 0;
@@ -62,6 +69,14 @@ a {
   cursor: pointer;
   display: block;
   padding-bottom: 1rem;
-  margin-bottom: 2rem;
   border-bottom: 1px #454040 solid;
+}
+.side-box:hover h4 {
+  opacity: 0.9;
+}
+.sidebar .bars-container {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  gap: 0.4rem;
 }
