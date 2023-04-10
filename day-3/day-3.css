@@ -35,3 +35,11 @@ p:hover {
   background-color: #595959;
   padding: 0.6rem;
 }
+.other-article .article-container {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+.sidebar h3 {
+  margin: 0 0 1rem 0;
+}
