@@ -2,5 +2,28 @@ article:first-of-type p:nth-of-type(3) {
   color: #fb3da6;
 }
 #paragraph-2 {
-  color: #a3b1c6;
+  color: #e6b3a9;
+}
+p {
+  transition: all 0.5s ease-in-out;
+}
+p:hover {
+  opacity: 0.8;
+}
+.some-box {
+  display: block;
+  text-decoration: none;
+  background-color: rgb(12, 52, 96);
+  background-color: #3eb6e1;
+  margin: 1rem;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  padding: 3rem;
+  transition: all 0.3s ease-in-out;
+}
+.some-box:hover {
+  opacity: 0.8;
+  cursor: pointer;
 }
