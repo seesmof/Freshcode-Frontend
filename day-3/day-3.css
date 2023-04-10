@@ -7,12 +7,6 @@ article.first-article p:nth-of-type(3) {
 a {
   text-decoration: none;
 }
-p {
-  transition: all 0.5s ease-in-out;
-}
-p:hover {
-  opacity: 0.8;
-}
 .some-box {
   display: block;
   text-decoration: none;
