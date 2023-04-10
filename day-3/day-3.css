@@ -43,3 +43,10 @@ a {
 .content {
   width: 70%;
 }
+
+.side-box {
+  margin: 1rem 0;
+  padding: 2rem 0;
+  text-align: center;
+  background-color: #595959;
+}
