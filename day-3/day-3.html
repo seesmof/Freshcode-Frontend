@@ -9,7 +9,7 @@
     <title>Day Three</title>
 
     <style>
-      article:first-of-type p:nth-of-type(2) {
+      article.first-article p:nth-of-type(2) {
         color: #a3b67d;
       }
     </style>
@@ -20,7 +20,7 @@
       <a href="/day-3/day-3.html">Day Three</a>
     </div>
 
-    <article>
+    <article class="first-article">
       <h1>Some Heading</h1>
       <p style="color: #cfeb6e">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
@@ -47,10 +47,36 @@
       </p>
       <!-- HTML comment example -->
       <a class="some-box" href="#">Some Box</a>
-
-      <div class="heading-container">
-        <h2 class="article-heading">Food</h2>
-      </div>
+    </article>
+    <article class="other-article">
+      <h2 class="article-heading">Food</h2>
+      <article class="article-container">
+        <div class="content">
+          <p>So, in this article we will discuss food and how I like it.</p>
+          <p>Well, I like food, don't you?</p>
+          <p>
+            Oh yeah, some nice chicken and macaronies with sauce is very nice to
+            have!
+          </p>
+          <p>Here are some pros of food:</p>
+          <ul>
+            <li>Well, it's delicious</li>
+            <li>It looks good, most of the times at least</li>
+            <li>I personally like it</li>
+          </ul>
+          <p>So that's pretty much it!</p>
+          <p>I like food and so should you. Alright, bye, cya</p>
+        </div>
+        <aside class="sidebar">
+          <h3 class="sidebar-heading">Check out these!</h3>
+          <div class="side-box">Some news here</div>
+          <div class="side-box">Some news here</div>
+          <div class="side-box">Some news here</div>
+        </aside>
+      </article>
+      <footer>
+        <a href="github.com/seesmof">Read More</a>
+      </footer>
     </article>
   </body>
 </html>

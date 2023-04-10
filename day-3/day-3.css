@@ -1,8 +1,11 @@
-article:first-of-type p:nth-of-type(3) {
+article.first-article p:nth-of-type(3) {
   color: #fb3da6;
 }
 #paragraph-2 {
   color: #e6b3a9;
+}
+a {
+  text-decoration: none;
 }
 p {
   transition: all 0.5s ease-in-out;
