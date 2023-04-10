@@ -43,10 +43,25 @@ a {
 .content {
   width: 70%;
 }
+.sidebar {
+  width: 24%;
+}
 
-.side-box {
+.side-box p:first-of-type {
   margin: 1rem 0;
-  padding: 2rem 0;
+  width: 4rem;
+  font-size: 0.9rem;
   text-align: center;
   background-color: #595959;
+  border-radius: 0.6rem;
+}
+.side-box h4 {
+  margin: 0;
+}
+.side-box {
+  cursor: pointer;
+  display: block;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px #454040 solid;
 }
