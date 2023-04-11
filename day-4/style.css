@@ -30,15 +30,32 @@ header {
   background-color: inherit;
   border: none;
 }
-.header-box form a {
-  text-decoration: none;
-}
 .search-box {
   margin-top: 0.5rem;
 
   background-color: inherit;
-  border: 1px solid #eee;
+  border: 1px solid #757575;
   border-radius: 1rem;
-  width: 200px;
+  width: 40%;
   overflow: hidden;
+  transition: all 0.3s ease-in-out;
+
+  display: flex;
+}
+.search-box a {
+  text-decoration: none;
+  background-color: #757575;
+  padding: 0.5rem;
+  float: right;
+  width: 40%;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.search-box a:hover {
+  background-color: #606060;
+}
+.search-box input {
+  width: 70%;
+  color: inherit;
+  padding-left: 1rem;
 }
