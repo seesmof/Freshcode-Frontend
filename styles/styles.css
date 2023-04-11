@@ -8,35 +8,11 @@ body {
   color: #eee;
   background-color: #212121;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 2rem 1rem 1rem 1rem;
-}
-p {
-  margin: 1rem;
-}
-li {
-  margin: 0.5rem 2rem;
-}
-.date {
-  color: #ccc;
-  font-style: normal;
-  font-size: 1.05em;
-  font-weight: 600;
-  margin-top: 3rem;
-}
-a {
-  color: inherit;
-}
 .breadcrumbers {
   padding: 1rem;
   border-bottom: 1px solid #eee;
   background-color: #303030;
 }
-.recap {
-  margin-top: 1.2rem;
+a {
+  color: inherit;
 }
