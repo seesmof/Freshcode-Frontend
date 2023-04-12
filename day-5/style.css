@@ -67,3 +67,14 @@ main {
   display: block;
   padding-top: 1rem;
 }
+
+.strict-box {
+  margin: 2rem;
+  border: 1.5px solid #eee;
+  padding: 1rem;
+  height: 10rem;
+  overflow: scroll;
+}
+.strict-box p {
+  margin: 1rem 0;
+}
