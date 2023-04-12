@@ -70,6 +70,12 @@ header nav .nav-button:hover {
   font-size: 1.3rem;
   width: 50%;
 }
+.hero img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+}
 
 main .first-info {
   text-align: center;
