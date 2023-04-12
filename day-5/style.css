@@ -100,4 +100,5 @@ main {
 }
 .cool-button:hover {
   background-color: #6dc072;
+  cursor: pointer;
 }
