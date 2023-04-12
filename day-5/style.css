@@ -88,3 +88,16 @@ main {
   font-weight: bold;
   color: #6dc072;
 }
+
+.cool-button {
+  background-color: #4b9779;
+  margin: 2rem;
+  text-align: center;
+  padding: 0.5rem 2rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+}
+.cool-button:hover {
+  background-color: #6dc072;
+}
