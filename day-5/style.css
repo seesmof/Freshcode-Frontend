@@ -10,7 +10,7 @@ main {
   margin: 2rem;
 }
 .first-sec .test-div {
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 .first-sec a {
   display: block;
