@@ -57,3 +57,13 @@ main {
   flex: 0 0 10%;
   background: #ba6d9e;
 }
+
+.some-box {
+  border: 1.5px solid #eee;
+  margin: 2rem;
+  padding: 1rem;
+}
+.some-box em {
+  display: block;
+  padding-top: 1rem;
+}
