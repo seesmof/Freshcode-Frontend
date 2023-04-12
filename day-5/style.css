@@ -73,7 +73,7 @@ main {
   border: 1.5px solid #82c29e;
   padding: 0 1rem;
   height: 10rem;
-  overflow: scroll;
+  overflow-y: scroll;
   overflow-x: auto;
 }
 .strict-box p {
