@@ -79,6 +79,10 @@ header nav .nav-button:hover {
   z-index: 2;
 }
 
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+}
 main .first-info {
   text-align: center;
   display: flex;
@@ -139,4 +143,67 @@ main .first-info h2 {
 }
 .schedule .time {
   color: #3d8c9d;
+}
+.button-container {
+  margin: 1.5rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.learn-more {
+  text-transform: uppercase;
+  margin: 2rem auto;
+  text-decoration: none;
+  padding: 1rem 2rem;
+  background: #7ae5fd;
+  color: #212121;
+  border-radius: 2rem;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+.learn-more:hover {
+  background: #96e1f1;
+}
+
+.present {
+  margin: 12rem auto;
+  position: relative;
+}
+.present .card {
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 1.5rem;
+}
+.present .card .text {
+  padding: 3rem;
+  padding-left: 1.5rem;
+  flex: 1;
+  max-width: 20rem;
+  margin-right: 14rem;
+}
+.present .card .present-container {
+  flex: 1;
+  position: relative;
+}
+.present-container img {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  transform: translate(-50%, -50%);
+  left: 15rem;
+}
+.present .background-img {
+  display: flex;
+  justify-content: center;
+}
+.present .background-img img {
+  position: absolute;
+  max-width: 110%;
+  z-index: -1;
+  top: 50%;
+  bottom: 50%;
+  transform: translate(-50%, -50%);
+  left: 50%;
 }
