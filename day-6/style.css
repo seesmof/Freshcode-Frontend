@@ -7,7 +7,13 @@ main {
 }
 
 .wrapper {
-  width: 500px;
-  height: 500px;
+  width: 700px;
+  height: 700px;
   background: #82b976;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  background: #b671bc;
+  border: 2px solid;
 }
