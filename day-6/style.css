@@ -10,10 +10,24 @@ main {
   width: 700px;
   height: 700px;
   background: #82b976;
+  margin: 2rem;
 }
 .box {
   height: 100px;
   width: 100px;
   background: #b671bc;
   border: 2px solid;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.box-one {
+}
+.box-two {
+}
+.box-three {
+}
+.box-four {
+}
+.box-five {
 }
