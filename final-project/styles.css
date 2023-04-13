@@ -84,6 +84,7 @@ main .first-info {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  padding-bottom: 2rem;
 }
 main .first-info p {
   color: #73a6b1;
@@ -99,4 +100,11 @@ main .first-info h2 {
   font-size: 3rem;
   text-transform: uppercase;
   letter-spacing: 0.06rem;
+}
+
+.card {
+  background: #f1fdff;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 2rem auto;
 }
