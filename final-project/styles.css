@@ -108,3 +108,35 @@ main .first-info h2 {
   border-radius: 1rem;
   margin: 2rem auto;
 }
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.left-side {
+  flex: 1;
+}
+.right-side {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.right-side img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 0.5rem;
+}
+.card .heading {
+  font-weight: normal;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+}
+.left-side .remark {
+  font-size: 1.2rem;
+}
+.schedule {
+  margin-top: 2rem;
+}
+.schedule .time {
+  color: #3d8c9d;
+}
