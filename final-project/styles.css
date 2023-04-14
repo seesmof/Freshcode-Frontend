@@ -180,8 +180,7 @@ main .first-info h2 {
   padding: 3rem;
   padding-left: 1.5rem;
   flex: 1;
-  max-width: 20rem;
-  margin-right: 14rem;
+  max-width: 30rem;
 }
 .present .card .present-container {
   flex: 1;
@@ -189,10 +188,9 @@ main .first-info h2 {
 }
 .present-container img {
   position: absolute;
-  top: 50%;
-  bottom: 50%;
   transform: translate(-50%, -50%);
-  left: 15rem;
+  margin-right: 2rem;
+  margin-left: 12rem;
 }
 .present .background-img {
   display: flex;
