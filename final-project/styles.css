@@ -168,6 +168,9 @@ main .first-info h2 {
 
 .present {
   margin: 12rem auto;
+  margin-bottom: 16rem;
+}
+.present .relative-container {
   position: relative;
 }
 .present .card {
@@ -186,12 +189,14 @@ main .first-info h2 {
 .present .card .present-container {
   flex: 1;
   position: relative;
+  display: flex;
+  justify-content: flex-end;
 }
 .present-container img {
   position: absolute;
   transform: translate(-50%, -50%);
-  margin-right: 2rem;
-  margin-left: 12rem;
+  left: 50%;
+  top: 50%;
 }
 .present .background-img {
   display: flex;
@@ -205,4 +210,40 @@ main .first-info h2 {
   bottom: 50%;
   transform: translate(-50%, -50%);
   left: 50%;
+}
+
+.donate {
+  margin: 12rem auto;
+  margin-bottom: 16rem;
+}
+.donate .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+.donate .heading h2 {
+  font-size: 3.5rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.donate .heading p {
+  color: #73a6b1;
+  font-size: 1.2rem;
+}
+.donate .goal {
+  margin: 3rem auto;
+}
+.goal h2 {
+  font-weight: normal;
+  font-size: 1.6rem;
+}
+.goal .already-there {
+  display: flex;
+  gap: 1rem;
+  font-size: 60px;
+  font-size: 3.5rem;
 }
