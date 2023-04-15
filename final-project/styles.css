@@ -242,8 +242,25 @@ main .first-info h2 {
   font-size: 1.6rem;
 }
 .goal .already-there {
+  margin-top: 1rem;
   display: flex;
+  justify-content: center;
+  font-size: 3.3rem;
   gap: 1rem;
-  font-size: 60px;
-  font-size: 3.5rem;
+}
+.already-there .divider {
+  border-left: 2px solid #9ad2de;
+  height: inherit;
+}
+.make-donate {
+  background: #7ae5fd;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  color: #212121;
+  transition: all 0.2s ease-in-out;
+}
+.make-donate:hover {
+  background: #a5edfd;
 }
