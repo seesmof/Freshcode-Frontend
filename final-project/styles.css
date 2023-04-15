@@ -20,8 +20,12 @@ header {
   height: 729px;
   margin-bottom: 7rem;
 }
-header nav .logo {
+header nav .logo img {
   margin-top: 4rem;
+  transition: all 0.3s ease-in-out;
+}
+header nav .logo img:hover {
+  transform: translateY(-0.2rem);
 }
 header nav .container {
   flex-direction: row;
