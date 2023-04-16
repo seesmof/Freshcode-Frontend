@@ -18,15 +18,6 @@ body {
 header {
   height: 729px;
 }
-header nav .nav-link,
-.nav-button {
-  /* text-decoration: none; */
-  /* color: #212121; */
-  transition: all 0.3s ease-in-out;
-}
-header nav .nav-link:hover {
-  color: #616161;
-}
 header nav .nav-button {
   background-color: #7ae5fd;
   padding: 1rem 1.5rem;

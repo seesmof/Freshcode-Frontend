@@ -74,6 +74,15 @@
   padding: 2rem;
   border-radius: 1rem;
 }
+.up-sm:hover {
+  transform: translateY(-0.2rem);
+}
+.up-md:hover {
+  transform: translateY(-0.4rem);
+}
+.up-lg:hover {
+  transform: translateY(-0.6rem);
+}
 
 .p-sm {
   padding: 1rem;
