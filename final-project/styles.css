@@ -33,54 +33,24 @@ header {
 #first-card-supplementary-text {
   font-size: 1.2rem;
 }
-
-.learn-more {
-  text-transform: uppercase;
-  margin: 2rem auto;
-  text-decoration: none;
-  padding: 1rem 2rem;
-  background: #7ae5fd;
-  color: #212121;
-  border-radius: 2rem;
-  text-align: center;
-  transition: all 0.2s ease-in-out;
-}
-.learn-more:hover {
-  background: #96e1f1;
-}
-
-.present {
+#present-section {
   margin: 12rem auto;
   margin-bottom: 16rem;
 }
-.present .relative-container {
-  position: relative;
-}
-.present .card {
-  padding: 2rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+#present-section .card {
   font-size: 1.5rem;
 }
-.present .card .text {
+#present-section .card .text {
   padding: 3rem;
   padding-left: 1.5rem;
-  flex: 1;
   max-width: 30rem;
 }
-.present .card .present-container {
-  flex: 1;
-  position: relative;
-  display: flex;
-  justify-content: flex-end;
-}
-.present-container img {
-  position: absolute;
+#present-section img {
   transform: translate(-50%, -50%);
   left: 50%;
   top: 50%;
 }
+
 .present .background-img {
   display: flex;
   justify-content: center;
