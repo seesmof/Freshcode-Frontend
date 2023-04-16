@@ -139,6 +139,9 @@
   color: #212121;
 }
 
+.brad-xs {
+  border-radius: 0.5rem;
+}
 .brad-sm {
   border-radius: 1rem;
 }
@@ -370,4 +373,19 @@
 }
 .as-r {
   align-self: right;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.mw-100 {
+  max-width: 100%;
+}
+.mh-100 {
+  max-height: 100%;
+}
+
+.font-1.2 {
+  font-size: 1.2rem;
 }

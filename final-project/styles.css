@@ -23,46 +23,14 @@ header {
 #program-section h3 {
   font-size: 1.6rem;
 }
-
-main .first-info h2 {
-  font-weight: normal;
+#program-section h2 {
   font-size: 3.4rem;
-  text-transform: uppercase;
   letter-spacing: 0.06rem;
 }
-
-.card {
-  background: #f1fdff;
-  padding: 2rem;
-  border-radius: 1rem;
-  margin: 2rem auto;
-}
-.flex-container {
-  display: flex;
-  flex-direction: row;
-}
-.left-side {
-  flex: 1;
-}
-.right-side {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.right-side img {
-  max-width: 100%;
-  max-height: 100%;
-  border-radius: 0.5rem;
-}
-.card .heading {
-  font-weight: normal;
+.card h2 {
   font-size: 2.5rem;
-  text-transform: uppercase;
 }
-.left-side .remark {
-  font-size: 1.2rem;
-}
+
 .schedule {
   margin-top: 2rem;
 }
