@@ -11,12 +11,12 @@ body {
 header {
   height: 729px;
 }
-
-.hero .main-heading {
+.hero h1 {
   line-height: 1;
 }
+
 .hero .additional-text {
-  margin-top: 5rem;
+  /* margin-top: 5rem; */
   font-size: 1.3rem;
   width: 50%;
 }

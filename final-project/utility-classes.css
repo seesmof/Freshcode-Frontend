@@ -22,6 +22,9 @@
 .g-lg {
   gap: 4rem;
 }
+.g-xl {
+  gap: 8rem;
+}
 .jc-l {
   justify-content: start;
 }
@@ -132,6 +135,9 @@
 .brad-lg {
   border-radius: 4rem;
 }
+.brad-xl {
+  border-radius: 8rem;
+}
 
 .op-sm:hover {
   opacity: 0.9;
@@ -152,6 +158,9 @@
 }
 .up-lg:hover {
   transform: translateY(-0.6rem);
+}
+.up-xl:hover {
+  transform: translateY(-0.8rem);
 }
 
 .p-sm {
@@ -202,6 +211,22 @@
   padding-left: 4rem;
 }
 
+.p-xl {
+  padding: 8rem;
+}
+.pt-xl {
+  padding-top: 8rem;
+}
+.pr-xl {
+  padding-right: 8rem;
+}
+.pb-xl {
+  padding-bottom: 8rem;
+}
+.pl-xl {
+  padding-left: 8rem;
+}
+
 .m-sm {
   margin: 1rem;
 }
@@ -248,6 +273,22 @@
 }
 .ml-lg {
   margin-left: 4rem;
+}
+
+.m-xl {
+  margin: 8rem;
+}
+.mt-xl {
+  margin-top: 8rem;
+}
+.mr-xl {
+  margin-right: 8rem;
+}
+.mb-xl {
+  margin-bottom: 8rem;
+}
+.ml-xl {
+  margin-left: 8rem;
 }
 
 .list-none {
