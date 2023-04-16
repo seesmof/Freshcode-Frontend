@@ -18,11 +18,6 @@ body {
 header {
   height: 729px;
 }
-header nav .nav-button {
-  background-color: #7ae5fd;
-  padding: 1rem 1.5rem;
-  border-radius: 5rem;
-}
 header nav .nav-button:hover {
   background-color: #a5edfd;
 }

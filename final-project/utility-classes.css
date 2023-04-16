@@ -59,15 +59,35 @@
 .uppercase {
   text-transform: uppercase;
 }
-.btn.round {
-  border-radius: 1rem 2rem;
+.btn {
+  padding: 1rem 2rem;
 }
 
 .bg-lblue {
-  background-color: #f1fdff;
+  background: #f1fdff;
+}
+.bg-blue {
+  background: #7ae5fd;
 }
 .txt-blk {
   color: #212121;
+}
+
+.brad-sm {
+  border-radius: 1rem;
+}
+.brad-md {
+  border-radius: 2rem;
+}
+.brad-lg {
+  border-radius: 4rem;
+}
+
+.op-9 {
+  opacity: 0.9;
+}
+.op-7 {
+  opacity: 0.7;
 }
 
 .card {
