@@ -23,7 +23,7 @@ header nav .nav-button:hover {
 }
 
 .hero {
-  align-items: center;
+  /* align-items: center; */
   margin-top: 5rem;
 }
 .hero .main-heading {
