@@ -322,3 +322,29 @@
 .dec-under {
   text-decoration: underline;
 }
+
+.t-0 {
+  top: 0;
+}
+.r-0 {
+  right: 0;
+}
+.b-0 {
+  bottom: 0;
+}
+.l-0 {
+  left: 0;
+}
+
+.abs {
+  position: absolute;
+}
+.ta-c {
+  text-align: center;
+}
+.ta-l {
+  text-align: left;
+}
+.ta-r {
+  text-align: right;
+}
