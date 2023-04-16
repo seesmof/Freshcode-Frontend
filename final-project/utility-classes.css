@@ -62,21 +62,17 @@
 .btn.round {
   border-radius: 1rem 2rem;
 }
+
 .bg-lblue {
   background-color: #f1fdff;
 }
+.txt-blk {
+  color: #212121;
+}
+
 .card {
   padding: 2rem;
   border-radius: 1rem;
-}
-.hover.up-sm {
-  transform: translateY(-0.2rem);
-}
-.hover.up-md {
-  transform: translateY(-0.4rem);
-}
-.hover.up-lg {
-  transform: translateY(-0.6rem);
 }
 
 .p-sm {
