@@ -63,11 +63,61 @@
   padding: 1rem 2rem;
 }
 
-.bg-lblue {
+.font-bold {
+  font-weight: 900;
+}
+.font-1 {
+  font-size: 1rem;
+}
+.font-2 {
+  font-size: 2rem;
+}
+.font-3 {
+  font-size: 3rem;
+}
+.font-4 {
+  font-size: 4rem;
+}
+.font-5 {
+  font-size: 5rem;
+}
+.font-6 {
+  font-size: 6rem;
+}
+.font-7 {
+  font-size: 7rem;
+}
+
+.w-50 {
+  width: 50%;
+}
+.w-full {
+  width: 100%;
+}
+.w-25 {
+  width: 25%;
+}
+
+.bg-white-blue {
   background: #f1fdff;
 }
-.bg-blue {
+.txt-white-blue {
+  color: #f1fdff;
+}
+.bg-sky-blue {
   background: #7ae5fd;
+}
+.txt-sky-blue {
+  color: #7ae5fd;
+}
+.bg-blue {
+  background: #9ad2de;
+}
+.txt-blue {
+  color: #9ad2de;
+}
+.bg-blk {
+  background: #212121;
 }
 .txt-blk {
   color: #212121;
@@ -83,11 +133,11 @@
   border-radius: 4rem;
 }
 
-.op-9 {
+.op-sm:hover {
   opacity: 0.9;
 }
-.op-7 {
-  opacity: 0.7;
+.op-md:hover {
+  opacity: 0.8;
 }
 
 .card {
