@@ -107,6 +107,15 @@
 .w-25 {
   width: 25%;
 }
+.h-50 {
+  height: 50%;
+}
+.h-full {
+  height: 100%;
+}
+.h-25 {
+  height: 25%;
+}
 
 .bg-white-blue {
   background: #f1fdff;
@@ -131,6 +140,12 @@
 }
 .txt-steel-blue {
   color: #73a6b1;
+}
+.bg-teal {
+  background: #3d8c9d;
+}
+.txt-teal {
+  color: #3d8c9d;
 }
 .bg-blk {
   background: #212121;
@@ -243,6 +258,9 @@
   padding-left: 8rem;
 }
 
+.m-auto {
+  margin: 0 auto;
+}
 .m-sm {
   margin: 1rem;
 }
@@ -384,8 +402,4 @@
 }
 .mh-100 {
   max-height: 100%;
-}
-
-.font-1.2 {
-  font-size: 1.2rem;
 }
