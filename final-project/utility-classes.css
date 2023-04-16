@@ -13,6 +13,9 @@
 .flex-col {
   flex-direction: column;
 }
+.g-xs {
+  gap: 0.5rem;
+}
 .g-sm {
   gap: 1rem;
 }
@@ -69,6 +72,10 @@
 .font-bold {
   font-weight: 900;
 }
+.font-norm {
+  font-weight: normal;
+}
+
 .font-1 {
   font-size: 1rem;
 }
@@ -118,6 +125,12 @@
 }
 .txt-blue {
   color: #9ad2de;
+}
+.bg-steel-blue {
+  background: #73a6b1;
+}
+.txt-steel-blue {
+  color: #73a6b1;
 }
 .bg-blk {
   background: #212121;
@@ -347,4 +360,14 @@
 }
 .ta-r {
   text-align: right;
+}
+
+.as-c {
+  align-self: center;
+}
+.as-l {
+  align-self: left;
+}
+.as-r {
+  align-self: right;
 }
