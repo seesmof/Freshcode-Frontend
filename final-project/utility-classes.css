@@ -1,4 +1,4 @@
-.fxlex {
+.flgex {
   display: flex;
 }
 .flex-row {
@@ -6,6 +6,15 @@
 }
 .flex-col {
   flex-direction: column;
+}
+.g-sm {
+  gap: 1rem;
+}
+.g-md {
+  gap: 2rem;
+}
+.g-lg {
+  gap: 4rem;
 }
 .container {
   width: 80%;
@@ -57,19 +66,19 @@
   padding-left: 2rem;
 }
 
-.p-xl {
+.p-lg {
   padding: 4rem;
 }
-.pt-xl {
+.pt-lg {
   padding-top: 4rem;
 }
-.pr-xl {
+.pr-lg {
   padding-right: 4rem;
 }
-.pb-xl {
+.pb-lg {
   padding-bottom: 4rem;
 }
-.pl-xl {
+.pl-lg {
   padding-left: 4rem;
 }
 
@@ -105,18 +114,18 @@
   margin-left: 2rem;
 }
 
-.m-xl {
+.m-lg {
   margin: 4rem;
 }
-.mt-xl {
+.mt-lg {
   margin-top: 4rem;
 }
-.mr-xl {
+.mr-lg {
   margin-right: 4rem;
 }
-.mb-xl {
+.mb-lg {
   margin-bottom: 4rem;
 }
-.ml-xl {
+.ml-lg {
   margin-left: 4rem;
 }
