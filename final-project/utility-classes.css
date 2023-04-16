@@ -1,5 +1,11 @@
-.flex {
+.fxlex {
   display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-col {
+  flex-direction: column;
 }
 .container {
   width: 80%;
@@ -10,4 +16,44 @@
 }
 .btn.round {
   border-radius: 1rem 2rem;
+}
+.bg-lblue {
+  background-color: #f1fdff;
+}
+.card {
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.p-sm {
+  padding: 1rem;
+}
+.pt-sm {
+  padding-top: 1rem;
+}
+.pr-sm {
+  padding-right: 1rem;
+}
+.pb-sm {
+  padding-bottom: 1rem;
+}
+.pl-sm {
+  padding-left: 1rem;
+}
+
+.p-md {
+  padding: 2rem;
+}
+
+.p-xl {
+  padding: 4rem;
+}
+.m-sm {
+  margin: 1rem;
+}
+.m-md {
+  margin: 2rem;
+}
+.m-xl {
+  margin: 4rem;
 }
