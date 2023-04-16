@@ -50,12 +50,7 @@ header {
   left: 50%;
   top: 50%;
 }
-
-.present .background-img {
-  display: flex;
-  justify-content: center;
-}
-.present .background-img img {
+.background-img img {
   position: absolute;
   max-width: 110%;
   z-index: -1;
