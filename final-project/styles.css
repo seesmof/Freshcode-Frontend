@@ -85,11 +85,6 @@ footer .bg-image {
   font-size: 3.5rem;
 }
 
-.right-column i {
-  padding-bottom: 1rem;
-  padding-right: 0.5rem;
-  transition: all 0.2s ease-in-out;
-}
 .right-column i:hover {
   transform: translateY(-0.2rem);
   cursor: pointer;
