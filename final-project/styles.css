@@ -88,20 +88,13 @@ footer .bg-image {
   max-width: 70%;
   font-size: 1.2rem;
 }
-
 .form-section .left img {
   width: 80%;
 }
-.form-section .right {
-  display: flex;
-  flex-direction: column;
-  gap: 1.4rem;
-  width: 45%;
-}
 .form-section .right h2 {
-  font-weight: normal;
   font-size: 1.6rem;
 }
+
 .form-section form {
   margin-top: 0.5rem;
   display: flex;
