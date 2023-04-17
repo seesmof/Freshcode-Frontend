@@ -65,38 +65,17 @@ header {
 #how-to-section .heading p {
   font-size: 1.2rem;
 }
-
-.donate {
-  margin: 12rem auto;
-  margin-bottom: 8rem;
-}
-.donate .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  width: 60%;
-  margin: 0 auto;
-}
-.donate .goal {
-  margin: 3rem auto;
-}
-.goal h2 {
-  font-weight: normal;
+#how-to-section .goal h2 {
   font-size: 1.6rem;
 }
-.goal .already-there {
-  margin-top: 1rem;
-  display: flex;
-  justify-content: center;
-  font-size: 3.3rem;
-  gap: 1rem;
-}
-.already-there .divider {
+#how-to-section .already-there .divider {
   border-left: 2px solid #9ad2de;
   height: inherit;
 }
+#how-to-section .already-there {
+  font-size: 3.3rem;
+}
+
 .make-donate {
   background: #7ae5fd;
   text-decoration: none;
