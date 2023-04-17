@@ -59,6 +59,12 @@ header {
   transform: translate(-50%, -50%);
   left: 50%;
 }
+#how-to-section .heading h2 {
+  font-size: 3.5rem;
+}
+#how-to-section .heading p {
+  font-size: 1.2rem;
+}
 
 .donate {
   margin: 12rem auto;
@@ -72,15 +78,6 @@ header {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-}
-.donate .heading h2 {
-  font-size: 3.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-}
-.donate .heading p {
-  color: #73a6b1;
-  font-size: 1.2rem;
 }
 .donate .goal {
   margin: 3rem auto;
