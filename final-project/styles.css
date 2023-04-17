@@ -94,7 +94,6 @@ footer .bg-image {
 .form-section .right h2 {
   font-size: 1.6rem;
 }
-
 .form-section form input {
   padding: 1rem 2rem;
   font-size: 1.2rem;
@@ -108,13 +107,5 @@ footer .bg-image {
 .form-section form button {
   background: #7ae5fd;
   border: none;
-  padding: 1rem;
-  border-radius: 3rem;
-  text-transform: uppercase;
   font-size: 1.1rem;
-  transition: all 0.2s ease-in-out;
-}
-.form-section form button:hover {
-  background: #98eafd;
-  cursor: pointer;
 }
