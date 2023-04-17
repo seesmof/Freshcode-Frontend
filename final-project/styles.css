@@ -89,20 +89,8 @@ footer .bg-image {
   font-size: 1.2rem;
 }
 
-.form-section {
-  background: #fff;
-  display: flex;
-  flex-direction: columns;
-  z-index: 1;
-  margin-top: 6rem;
-  padding: 2rem;
-  border-radius: 1rem;
-}
-.form-section .left {
-  flex: 1;
-}
 .form-section .left img {
-  width: 27rem;
+  width: 80%;
 }
 .form-section .right {
   display: flex;

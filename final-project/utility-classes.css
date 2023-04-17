@@ -159,6 +159,12 @@
 .txt-pale-green {
   color: #f9fadf;
 }
+.bg-pure-white {
+  background: #fff;
+}
+.txt-pure-white {
+  color: #fff;
+}
 .bg-blk {
   background: #212121;
 }
