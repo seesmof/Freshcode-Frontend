@@ -426,3 +426,7 @@
 .over-scroll {
   overflow: scroll;
 }
+
+.point {
+  cursor: pointer;
+}

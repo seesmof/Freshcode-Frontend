@@ -84,15 +84,11 @@ footer .bg-image {
 #contacts-section .upper-section h2 {
   font-size: 3.5rem;
 }
-
-.right-column i:hover {
-  transform: translateY(-0.2rem);
-  cursor: pointer;
-}
-.right-column p {
+#contacts-section .right-column p {
   max-width: 70%;
   font-size: 1.2rem;
 }
+
 .form-section {
   background: #fff;
   display: flex;
