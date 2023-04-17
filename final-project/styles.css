@@ -81,19 +81,10 @@ footer .bg-image {
   right: 37rem;
   transform: scale(0.8);
 }
-
-.upper-section h2 {
-  text-transform: uppercase;
-  font-weight: normal;
+#contacts-section .upper-section h2 {
   font-size: 3.5rem;
-  flex: 1;
 }
-.upper-section .right-column {
-  display: flex;
-  flex-direction: column;
-  gap: 3rem;
-  padding-top: 1rem;
-}
+
 .right-column i {
   padding-bottom: 1rem;
   padding-right: 0.5rem;
