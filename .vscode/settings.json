@@ -1,4 +1,3 @@
 {
-  "gitdoc.enabled": true,
-  "gitdoc.commitMessageFormat": "ffff"
+  "gitdoc.enabled": true
 }

@@ -75,27 +75,13 @@ header {
 #how-to-section .already-there {
   font-size: 3.3rem;
 }
-
-footer {
-  background-color: #f9fadf;
-  position: relative;
-  z-index: 0;
-  padding-bottom: 6rem;
-  overflow: hidden;
-}
 footer .bg-image {
   filter: brightness(100);
-  position: absolute;
   top: -7rem;
   right: 37rem;
   transform: scale(0.8);
-  z-index: -1;
 }
-footer .upper-section {
-  display: flex;
-  flex-direction: row;
-  padding-top: 3rem;
-}
+
 .upper-section h2 {
   text-transform: uppercase;
   font-weight: normal;

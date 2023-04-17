@@ -419,3 +419,10 @@
 .rel {
   position: relative;
 }
+
+.over-hide {
+  overflow: hidden;
+}
+.over-scroll {
+  overflow: scroll;
+}
