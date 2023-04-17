@@ -95,25 +95,15 @@ footer .bg-image {
   font-size: 1.6rem;
 }
 
-.form-section form {
-  margin-top: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-}
 .form-section form input {
   padding: 1rem 2rem;
   font-size: 1.2rem;
   background: #f9fadf;
   border: none;
   border-radius: 3rem;
-  transition: all 0.2s ease-in-out;
 }
 .form-section form input::placeholder {
   color: #212121;
-}
-.form-section form input:hover {
-  background: rgba(236, 237, 221, 0.851);
 }
 .form-section form button {
   background: #7ae5fd;
