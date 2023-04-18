@@ -23,6 +23,7 @@ body {
   flex-grow: 1;
   color: #eee;
   padding: 1rem;
+  width: 30%;
 }
 
 /* will execute when device screen width is < 2000px */
