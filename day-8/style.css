@@ -18,16 +18,14 @@ body {
 }
 .box {
   width: 30%;
-  height: 30%;
+  height: 30rem;
   border: 1px solid #212121;
   background: rgb(172, 156, 111);
-  flex-shrink: 0;
 }
 
 /* will execute when device screen width is < 2000px */
 @media screen and (max-width: 2000px) {
   .box {
-    width: 100px;
     background: #679879;
   }
 }
