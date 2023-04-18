@@ -17,8 +17,8 @@ body {
   padding: 2rem;
 }
 .box {
-  width: 400px;
-  height: 400px;
+  width: 30%;
+  height: 30%;
   border: 1px solid #212121;
   background: rgb(172, 156, 111);
   flex-shrink: 0;
