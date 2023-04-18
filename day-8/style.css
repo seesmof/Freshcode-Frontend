@@ -33,7 +33,7 @@ body {
 }
 @media screen and (max-width: 300px) {
   .box {
-    widows: 20px;
+    width: 20px;
     background: #9c6078;
   }
 }
