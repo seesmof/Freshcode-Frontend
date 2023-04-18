@@ -23,3 +23,7 @@ body {
   background: rgb(172, 156, 111);
   flex-shrink: 0;
 }
+
+/* will execute when device screen width is < 2000px */
+@media screen and (max-width: 2000px) {
+}
