@@ -34,9 +34,9 @@ body {
 @media screen and (max-width: 300px) {
   .wrapper {
     flex-direction: column;
-    width: auto;
   }
   .box {
+    width: auto;
     background: #9c6078;
   }
 }
