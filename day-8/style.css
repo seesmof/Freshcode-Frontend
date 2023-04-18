@@ -21,6 +21,7 @@ body {
   height: 30rem;
   border: 1px solid #212121;
   background: rgb(172, 156, 111);
+  flex-grow: 1;
 }
 
 /* will execute when device screen width is < 2000px */
