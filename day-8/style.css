@@ -25,19 +25,3 @@ body {
   padding: 1rem;
   width: 30%;
 }
-
-/* will execute when device screen width is < 2000px */
-@media screen and (max-width: 2000px) {
-  .box {
-    background: #679879;
-  }
-}
-@media screen and (max-width: 500px) {
-  .wrapper {
-    flex-direction: column;
-  }
-  .box {
-    width: auto;
-    background: #9c6078;
-  }
-}
