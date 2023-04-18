@@ -26,4 +26,8 @@ body {
 
 /* will execute when device screen width is < 2000px */
 @media screen and (max-width: 2000px) {
+  .box {
+    width: 100px;
+    background: #679879;
+  }
 }
