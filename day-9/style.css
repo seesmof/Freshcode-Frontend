@@ -26,3 +26,6 @@ input {
   flex-direction: column;
   gap: 0.2rem;
 }
+.input-container label {
+  font-weight: bold;
+}
