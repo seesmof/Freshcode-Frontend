@@ -14,3 +14,6 @@ body {
   width: 80%;
   margin: 0 auto;
 }
+.main-heading:hover {
+  transform: translateY(-5px);
+}
