@@ -9,6 +9,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background: #c2e3f1;
   color: #212121;
+  overflow-y: hidden;
 }
 
 .container {
