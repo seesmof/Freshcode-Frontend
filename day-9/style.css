@@ -52,7 +52,7 @@ button[type="submit"] {
   margin-top: 1rem;
 }
 button[type="submit"]:hover {
-  background: #eeeeee53;
+  background: #bcc4c553;
   cursor: pointer;
 }
 .required {
