@@ -45,5 +45,5 @@ button[type="submit"]:hover {
   cursor: pointer;
 }
 .required {
-  color: red;
+  color: rgb(197, 52, 52);
 }
