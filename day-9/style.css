@@ -30,7 +30,7 @@ input {
 p {
   font-weight: bold;
 }
-.radio {
+.row {
   flex-direction: row;
   align-items: center;
 }
