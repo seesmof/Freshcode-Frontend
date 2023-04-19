@@ -34,3 +34,8 @@ p {
   flex-direction: row;
   align-items: center;
 }
+button[type="submit"] {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background: #eee;
+}
