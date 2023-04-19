@@ -41,5 +41,6 @@ button[type="submit"] {
   transition: all 0.2s ease-in-out;
 }
 button[type="submit"]:hover {
-  transform: translateY(-5px);
+  background: #eeeeeecf;
+  cursor: pointer;
 }
