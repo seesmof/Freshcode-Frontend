@@ -9,3 +9,8 @@ body {
   background: #eee;
   color: #212121;
 }
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
