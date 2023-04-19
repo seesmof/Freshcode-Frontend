@@ -17,3 +17,6 @@ body {
 .main-heading:hover {
   transform: translateY(-5px);
 }
+input {
+  padding: 1rem;
+}
