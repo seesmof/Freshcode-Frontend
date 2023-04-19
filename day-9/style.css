@@ -4,23 +4,8 @@
   padding: 0;
 }
 body {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background: #eee;
   color: #212121;
-}
-
-.wrapper {
-  display: flex;
-  flex-direction: row;
-  margin: 2rem;
-  flex-wrap: wrap;
-  gap: 0.3rem;
-}
-.box {
-  height: 30rem;
-  background: rgb(172, 156, 111);
-  flex-grow: 1;
-  color: #eee;
-  padding: 1rem;
-  width: 30%;
 }
