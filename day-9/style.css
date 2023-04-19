@@ -41,6 +41,6 @@ button[type="submit"] {
   transition: all 0.2s ease-in-out;
 }
 button[type="submit"]:hover {
-  background: #eeeeeecf;
+  background: #eeeeee53;
   cursor: pointer;
 }
