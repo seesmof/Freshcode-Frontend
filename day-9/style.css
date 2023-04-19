@@ -30,5 +30,7 @@ input {
 p {
   font-weight: bold;
 }
-.radio-container {
+.radio {
+  flex-direction: row;
+  align-items: center;
 }
