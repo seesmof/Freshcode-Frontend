@@ -39,6 +39,8 @@ button[type="submit"] {
   border-radius: 0.5rem;
   background: #eee;
   transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-size: 1.1rem;
 }
 button[type="submit"]:hover {
   background: #eeeeee53;
