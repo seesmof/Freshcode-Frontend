@@ -11,6 +11,7 @@ This repository contains all (or almost all) of the materials that were given to
   - [Technologies Used](#technologies-used)
   - [Screenshots](#screenshots)
   - [Contributing](#contributing)
+  - [Credits](#credits)
   - [License](#license)
 
 ## Introduction
@@ -45,6 +46,10 @@ Just a bit more of a background on the project before we move on. Let's talk abo
 ## Contributing
 
 Contributions are welcome! If you have a suggestion or improvement, feel free to submit a pull request.
+
+## Credits
+
+Gotta give a massive thanks to the whole Freshcode team and especially our mentor - Alisa from the training center for this wonderful opportunity and for making this nice course free for everyone!
 
 ## License
 
