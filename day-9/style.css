@@ -58,3 +58,8 @@ button[type="submit"]:hover {
 .required {
   color: rgb(197, 52, 52);
 }
+input[type="color"] {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #212121;
+}
