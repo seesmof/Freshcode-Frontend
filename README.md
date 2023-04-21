@@ -26,6 +26,7 @@ Just a bit more of a background on the project before we move on. Let's talk abo
 - HTML
 - CSS
 - Git
+- VSCode
 
 ## Screenshots
 
