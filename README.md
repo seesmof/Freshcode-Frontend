@@ -7,12 +7,21 @@ This repository contains all (or almost all) of the materials that were given to
 - [Freshcode Course](#freshcode-course)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [Motivation](#motivation)
+  - [Technologies Used](#technologies-used)
+  - [Screenshots](#screenshots)
   - [Contributing](#contributing)
   - [License](#license)
 
 ## Introduction
 
 Like I said above, this is a repository where all of my porjects, related to that course, went. We were doing lots of stuff, looking at a bunch of different technologies in both HTML and CSS. It didn't include JavaScript unfortunately, but that makes senes as it was very beginner friendly. Some of the projects we did was a pizza recipe, a final project with Ukrainian victory festival and some other side stuff.
+
+## Motivation
+
+## Technologies Used
+
+## Screenshots
 
 ## Contributing
 
