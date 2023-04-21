@@ -1,6 +1,6 @@
 # Day Two
 
-This repository contains the code for a webpage that shows a recipe for making pizza dough. The webpage is written in HTML and styled with CSS.
+This repository contains all (or almost all) of the materials that were given to us on a free FrontEnd course by Freshcode. It includes lots of different projects as well as notes for the first couple of days when I was not tired of writing them
 
 ## Table of Contents
 
