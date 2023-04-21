@@ -18,7 +18,7 @@ This repository contains all (or almost all) of the materials that were given to
 
 ## Introduction
 
-Pizza is a dish loved by many, and making your own pizza dough is a great way to personalize the dish to your liking. The recipe in this repository is a classic pizza dough recipe that is easy to follow and produces great results. Additionally, there is an alternative recipe provided that uses kefir instead of yeast.
+Like I said above, this is a repository where all of my porjects, related to that course, went. We were doing lots of stuff, looking at a bunch of different technologies in both HTML and CSS. It didn't include JavaScript unfortunately, but that makes senes as it was very beginner friendly. Some of the projects we did was a pizza recipe, a final project with Ukrainian victory festival and some other side stuff.
 
 ## Classic Pizza Dough Recipe
 
