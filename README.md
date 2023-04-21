@@ -1,10 +1,10 @@
-# Day Two
+# Freshcode Course
 
 This repository contains all (or almost all) of the materials that were given to us on a free FrontEnd course by Freshcode. It includes lots of different projects as well as notes for the first couple of days when I was not tired of writing them
 
 ## Table of Contents
 
-- [Day Two](#day-two)
+- [Freshcode Course](#freshcode-course)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Classic Pizza Dough Recipe](#classic-pizza-dough-recipe)
