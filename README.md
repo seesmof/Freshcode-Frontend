@@ -31,6 +31,16 @@ Just a bit more of a background on the project before we move on. Let's talk abo
 ## Screenshots
 
 ![Screenshot](./assets/img/msedge_3s4L5dz1Pd.png)
+![Screenshot](./assets/img/msedge_4KZCxrc3Gx.png)
+![Screenshot](./assets/img/msedge_9MXEtV45df.png)
+![Screenshot](./assets/img/msedge_BMldAPYXr3.png)
+![Screenshot](./assets/img/msedge_JbL727vRwo.png)
+![Screenshot](./assets/img/msedge_jFsEksb5KY.jpg)
+![Screenshot](./assets/img/msedge_OGgezpofK7.jpg)
+![Screenshot](./assets/img/msedge_s23EpDDHHv.png)
+![Screenshot](./assets/img/msedge_v7gfptfMHH.png)
+![Screenshot](./assets/img/msedge_yYVcW8oROF.jpg)
+![Screenshot](./assets/img/msedge_Z7PP409VE3.png)
 
 ## Contributing
 
