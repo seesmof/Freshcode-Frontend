@@ -23,6 +23,10 @@ Just a bit more of a background on the project before we move on. Let's talk abo
 
 ## Technologies Used
 
+- HTML
+- CSS
+- Git
+
 ## Screenshots
 
 ## Contributing
